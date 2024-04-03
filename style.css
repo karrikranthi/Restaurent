@@ -1,0 +1,465 @@
+.kushi1
+{
+    width: 101%;
+    height: 160px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+.v1 img
+{
+    width: 155px;
+    height: 120px;
+    margin-top: 31px;
+    margin-left: 21px;
+}
+.v2 h1
+{
+    margin-top: -92px;
+    margin-left: 311px;
+    font-size: 51px;
+    color: rgb(247, 92, 35);
+    font-family: pacifico;
+}
+.kushi2
+{
+    width: 101%;
+    height: 87px;
+    margin-top: 0px;
+    margin-left: -8px;
+    background-color: rgb(250, 145, 107);
+}
+.I1 ul
+{
+    display: flex;
+    list-style: none;
+    margin-top: 80px;
+    margin-left: 25px;
+}
+.I1 ul li
+{
+    margin-left: 45px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.I1
+{
+    margin-left: 250px;
+    margin-top: -50px;
+    word-spacing: 20px;
+    color: white;
+}
+.kushi3
+{
+    width: 101%;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: -8px;
+    background-color: rgb(250, 145, 107);
+}
+.j1
+{
+    width: 34%;
+    height: 295px;
+    margin-top: 0px;
+    margin-left: -8px;
+   
+    float: left;
+}
+.j1 img
+{
+    width: 34%;
+    height: 295px;
+    opacity: 0.5;
+    position: absolute;
+}
+.j1 h2
+{
+    margin-top: 238px;
+    margin-left: 50px;
+    position: relative;
+}
+.j2
+{
+    width: 32%;
+    height: 295px;
+    margin-top: 0px;
+    margin-left: 3px;
+   
+    float: left;
+}
+.j2 img
+{
+    width: 34%;
+    height: 295px;
+    opacity: 0.5;
+    position: absolute;
+}
+.j2 h2
+{
+    margin-top: 238px;
+    margin-left: 50px;
+    position: relative;
+}
+.j3
+{
+    width: 31%;
+    height: 294px;
+    margin-top: 0px;
+    margin-left: 7px;
+  
+    float: left;
+}
+.j3 img
+{
+    width: 34%;
+    height: 295px;
+    opacity: 0.5;
+    position: absolute;
+}
+.j3 h2
+{
+    margin-top: 238px;
+    margin-left: 50px;
+    position: relative;
+}
+.kushi4
+{
+    width: 101%;
+    height: 900px;
+    margin-top: 0px;
+    margin-left: -8px;
+    
+}
+.A1
+{
+     width: 514px;
+     height: 350px;
+     
+     margin-top: 45px;
+     margin-left: 52px;
+     float: left;
+}
+.A1 img
+{
+     width: 100%;
+     height: 350px;
+}
+.A2
+{
+    width: 514px;
+    height: 350px;
+   
+    margin-top: 50px;
+    margin-left: 84px;
+    float: left;
+}
+.A2 h2
+{
+    font-size: 50px;
+    color: rgb(82, 80, 80);
+    margin-top: 1px;
+    margin-left: 137px;
+}
+.A2 p
+{
+    font-size: 25px;
+    margin-top: 0px;
+    margin-left: 20px;
+    width: 487px;
+    color: rgb(82, 80, 80);
+    font-family: cursive;
+}
+
+.A3
+{
+    width: 514px;
+    height: 350px;
+ 
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+}
+.A3 h2
+{
+    font-size: 50px;
+    color: rgb(82, 80, 80);
+    margin-top: 1px;
+    margin-left: 137px;
+}
+.A3 p
+{
+    font-size: 25px;
+    margin-top: 0px;
+    margin-left: 20px;
+    width: 487px;
+    color: rgb(82, 80, 80);
+    font-family: cursive;
+}
+.A4
+{
+    width: 514px;
+    height: 350px;
+ 
+    margin-top: 50px;
+    margin-left: 85px;
+    float: left;
+}
+.A4 img
+{
+    width: 100%;
+    height: 350px;
+}
+.kushi5
+{
+    width: 101%;
+    height: 764px;
+    margin-top: 0px;
+    margin-left: -8px;
+    border: 2px solid transparent;
+    background-color: rgb(250, 145, 107);
+}
+.y1
+{
+    width: 33%;
+    height: 379px;
+    margin-top: -1px;
+    margin-left: 0px;
+    border: 2px solid transparent;
+    float: left;
+}
+.y1 img
+{
+    width: 100%;
+    height: 379px;
+   
+}
+.y2
+{
+    width: 33%;
+    height: 379px;
+    margin-top: -1px;
+    margin-left: 0px;
+    border: 2px solid transparent;
+    float: left;
+}
+.y2 h2
+{
+    margin-top: 9px;
+    margin-left: 125px;
+    color: white;
+    font-family: cursive;
+}
+.y2 p
+{
+    width: 359px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 50px;
+    word-spacing: 8px;
+    font-family: cursive;
+}
+.y3
+{
+    width: 33%;
+    height: 378px;
+    margin-top: -1px;
+    margin-left: 0px;
+    border: 2px solid transparent;
+    float: left;
+}
+.y3 img
+{
+    width: 100%;
+    height: 379px;
+}
+.y4
+{
+    width: 33%;
+    height: 378px;
+    margin-top: 50px;
+    margin-left: 0px;
+    border: 2px solid purple;
+    float: left;
+}
+.y4
+{
+    width: 33%;
+    height: 378px;
+    margin-top: 0px;
+    margin-left: 1px;
+    border: 2px solid transparent;
+    float: left;
+}
+.y4 h2
+{
+    margin-top: 9px;
+    margin-left: 125px;
+    color: white;
+    font-family: cursive;
+}
+.y4 p
+{
+    width: 359px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 50px;
+    word-spacing: 8px;
+    font-family: cursive;
+}
+.y5
+{
+    width: 33%;
+    height: 378px;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+}
+.y5 img
+{
+    width: 100%;
+    height: 379px;
+}
+.y6
+{
+    width: 33%;
+    height: 378px;
+    margin-top: -382px;
+    margin-left: 840px;
+    
+    float: left;
+}
+.y6 h2
+{
+    margin-top: 9px;
+    margin-left: 125px;
+    color: white;
+    font-family: cursive;
+}
+.y6 p
+{
+    width: 359px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 50px;
+    word-spacing: 8px;
+    font-family: cursive;
+}
+.kushi6
+{
+    width: 101%;
+    height: 800px;
+    margin-top: 0px;
+    margin-left: -8px;
+    border: 2px solid transparent;
+}
+.kushi6 img
+{
+    width: 100%;
+    height: 800px;
+}
+.kushi7
+{
+    width: 101%;
+    height: 1500px;
+    margin-top: 0px;
+    margin-left: -8px;
+    border: 2px solid transparent;
+    background-color: rgb(247, 92, 35);
+}
+.K1 
+{
+    width: 80%;
+    height: 1300px;
+    margin-top: 100px;
+    margin-left: 130px;
+    border: 2px solid black;
+    background-color: black;
+}
+.K2 
+{
+    width: 30%;
+    height: 300px;
+    margin-top: 54px;
+    margin-left: 653px;
+    border: 2px solid transparent;
+    border-radius: 150px;
+}
+.K2 img
+{
+    width: 100%;
+    height: 300px;
+    border-radius: 150px;
+}
+.K3 
+{
+    width: 30%;
+    height: 300px;
+    margin-top: 137px;
+    margin-left: 653px;
+    border: 2px solid transparent;
+    border-radius: 150px;
+}
+.K3 img
+{
+    width: 100%;
+    height: 300px;
+    border-radius: 150px;
+}
+.K4 
+{
+    width: 30%;
+    height: 300px;
+    margin-top: 137px;
+    margin-left: 653px;
+    border: 2px solid transparent;
+    border-radius: 150px;
+}
+.K4 img
+{
+    width: 100%;
+    height: 300px;
+    border-radius: 150px;
+}
+.K5 h3
+{
+    color: white;
+    font-size: 65px;
+    margin-left: 244px;
+    margin-top: -1181px;
+    font-family: Lobster;
+}
+.K6 h3
+{
+    color: white;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 51px;
+}
+.K7 li
+{
+    color: white;
+    margin-left: 125px;
+    list-style: none;
+    margin-top: 10px;
+}
+.K8 li
+{
+    color: white;
+    margin-left: 80px;
+    list-style: none;
+    margin-top: 10px;
+}
+.k h3
+{
+    color: white;
+    font-size: 30px;
+    margin-top: 101px;
+    margin-left: 51px;
+}
+.kushi8
+{
+    width: 101%;
+    height: 400px;
+    border: 1px solid black;
+    margin-left: -8px;
+}
